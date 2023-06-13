@@ -7,7 +7,7 @@
     "license": "proprietary",
     "homepage": "http://developer.authorize.net",
     "require": {
-        "php": "^8.1",
+        "php": "^7.4",
         "ext-curl": "*",
         "ext-json": "*"
     },
