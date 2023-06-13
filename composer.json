@@ -1,5 +1,5 @@
 {
-    "name": "belniakmedia/authorizenet",
+    "name": "mdsave/authorizenet",
     "type": "library",
 	"version": "3.0.1",
     "description": "Official PHP SDK for Authorize.Net",
