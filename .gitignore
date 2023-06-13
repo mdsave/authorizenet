@@ -1,0 +1,14 @@
+*.DS_Store
+.idea
+composer.lock
+vendor
+phpunit.xml
+tests/log
+build
+phplog
+
+# Ignore eclipse project files
+.buildpath
+.project
+.settings
+backup
